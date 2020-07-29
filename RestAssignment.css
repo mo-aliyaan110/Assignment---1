@@ -1,0 +1,121 @@
+body{
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar{
+    background-color: #ce0505;
+    background-attachment: fixed;
+    
+    height: 72px;
+}
+.links_container{
+    float: right;
+    padding-right: 45px;
+    padding-top: 22px;
+    padding-bottom: 25px;
+    display: inline-block;
+}
+.logo{
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: inline-block;
+    
+    height: 5px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 6px;
+    
+ 
+}
+.ul_list{
+    float: left;
+    padding-right: 25px;
+}
+ 
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.account_button{
+    background-color: #ce0505;
+    border: 1px solid white;
+    
+    
+}  
+.btn-padding{
+    padding: 8px;
+} 
+.padding_bottom{
+    padding-bottom: 5px;
+}
+.padding_top{
+    padding-top: 6px;
+}
+.logo_name{
+    font-size: 25px;
+    font-weight: bold;
+    color:#eb2929;
+    line-height: 30px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 25px;
+    left: 75px;
+
+}
+.bg_img{
+    background-image: url(img/shutterstock_1154073754.jpg);
+    height: 390px;
+    margin-top: 25px;
+    padding: 25px 45px;
+    
+    background-size: cover;
+    margin: 45px 95px;
+    
+}
+.img_content{
+    background-color: rgba(255, 255, 255, 0.7);
+    width: max-content;
+    position: relative;
+    top: 330px;
+    left: 860px;
+    padding: 0.5px ;
+    font-size: 11px;
+
+    
+}
+.text_color{
+    color: #192f60;
+}
+.main_content{
+    margin: 45px 95px;
+    color: #192f60;
+}
+.sub_content{
+    margin: 45px 120px;
+    color: #192f60;
+    
+
+}
+h3{
+    display: inline-block;
+    padding-right: 90px ;
+}
+.hr{
+    margin: 45px 95px;
+    margin-bottom: 40px;
+}
+.number{
+    margin: 45px 120px;
+    color: #192f60;
+}
+.digits{
+    color: hotpink;
+}   
+.address{
+    margin: 45px 120px;
+    color: #192f60;
+}
